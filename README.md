@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ygweygyigyigyigerig&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=ygweygyigyigyigerig&theme=dark&hide_border=false)<br/>
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![](https://nirzak-streak-stats.vercel.app/?user=ygweygyigyigyigerig&theme=github-dark-blue&hide_border=false)<br/>
 
-README.md inspired (stolen) by great friend and co-dev FrogProg09
+<h3 align="center">README.md inspired (stolen) from great friend and co-dev FrogProg09's README.md</h2>
