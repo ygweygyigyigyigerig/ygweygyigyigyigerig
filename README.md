@@ -27,4 +27,4 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-stats.vercel.app/api?username=ygweygyigyigyigerig&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=ygweygyigyigyigerig&theme=dark&hide_border=false)<br/>
 
-READ.md inspired (stolen) by great friend and co-dev FrogProg09
+README.md inspired (stolen) by great friend and co-dev FrogProg09
