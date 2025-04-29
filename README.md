@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Hi, I’m @ygweygyigyigyigerig</h2>
+<h1 align="center"> 👋 Hi, I’m Simon</h2>
 
 - 👀 I’m interested in linux, hyprland ricing and programming
  
