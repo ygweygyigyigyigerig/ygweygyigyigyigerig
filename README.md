@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 
 # 📊 GitHub Stats:
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ygweygyigyigyigerig&show_icons=true&theme=github_dark)](https://github.com/ygweygyigyigyigerig/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=ygweygyigyigyigerig&show_icons=true&theme=github_dark)](https://github.com/ygweygyigyigyigerig/github-readme-stats)
 ![](https://nirzak-streak-stats.vercel.app/?user=ygweygyigyigyigerig&theme=github-dark-blue&hide_border=false)<br/>
 
 <h3 align="center">README.md inspired (stolen) from great friend and co-dev FrogProg09's README.md</h2>
