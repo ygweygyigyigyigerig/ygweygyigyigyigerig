@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in linux, hyprland ricing and programming
  
-- 🌱 I’m currently learning C programming language
+- 🌱 I’m currently learning C++ programming language
  
 - 📫 How to contact me :
   - my discord : szymonschabiak
@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,arch,vim,bash,c,python,github,git&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=linux,arch,vim,bash,c++,python,github,git&theme=dark" alt="My Skills" />
   </a>
 </p>
 
