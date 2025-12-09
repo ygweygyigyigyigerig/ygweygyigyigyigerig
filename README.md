@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in linux, hyprland ricing and programming
  
-- 🌱 I’m currently learning godot engine
+- 🌱 I’m currently learning rust
  
 - 📫 How to contact me :
   - my discord : szymonschabiak
